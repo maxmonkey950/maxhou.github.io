@@ -4,7 +4,7 @@ SEOTitle: 恶来^ bolg | EL Blog
 header-img: img/post-bg-desk.jpg
 email: maxmonkey950@gmail.com
 description: "Every failure is leading towards success."
-keyword: "EL, EL Blog, 恶来^的博客, maxmonkey, 恶来, iOS, Apple, iPhone"
+keyword: "EL, EL Blog, 恶来^的博客, maxmonkey, 恶来"
 url: "http://blog.maxhou.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/maxmonkey950/maxhou.github.io" # you code repository
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: maxhou.github.io    #仓库名称
+  repo: https://github.com/maxmonkey950/maxhou.github.io    #仓库名称
   owner: maxmonkey950    #github用户名
-  admin: maxmonkey950
+  admin: maxhou
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·EL",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com"
     },{
         title: "Apple",
         href: "https://apple.com"
